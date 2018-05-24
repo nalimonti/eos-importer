@@ -150,8 +150,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+examinee_list_pii 5 17 2018.xlsx
+demograhpic_info_no_pii 5 17 2018.xlsx
+certificate_info.xlsx
 .~lock.demograhpic_info_no_pii 5 17 2018.xlsx#
 .~lock.examinee_list_pii 5 17 2018.xlsx#
-certificate_info.xlsx
-demograhpic_info_no_pii 5 17 2018.xlsx
-examinee_list_pii 5 17 2018.xlsx
